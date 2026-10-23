@@ -1,0 +1,10 @@
+openai
+tenacity
+Pillow
+tqdm
+math-verify
+latex2sympy2-extended
+sympy
+huggingface-hub
+pyarrow
+langid
